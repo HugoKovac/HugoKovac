@@ -1,2 +1,1 @@
-# 💫 About Me:
-Student at 42 Paris
+Software Engineer at Eyeo (AdBlockPlus)
